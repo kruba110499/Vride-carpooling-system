@@ -1,0 +1,55 @@
+body{
+    margin:0;
+    padding: 0;
+    width:100%;
+    background: rgb(240, 213, 213);
+}
+#pass{
+  color:rgb(94, 199, 235);
+  text-align: left;
+  /* padding: 50px 50px; */
+}
+h2{
+  color:rgb(245, 244, 244) ;
+  padding-left: 30%;
+}
+.container{
+    top: 45%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.card{
+    margin-top: 40%;
+    padding: 60px 60px 70px 60px;
+    background: rgb(58, 57, 57);
+    border-radius: 10px;
+    outline: none;
+    box-shadow: none;
+}
+
+
+#name{
+    width: 200px;  
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid rgb(245, 244, 244);
+    padding:10px;
+    margin-bottom: 25px;
+    font-size: medium;
+    outline: none;
+    color:rgb(255, 254, 254);
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: normal;
+}
+#button{
+    border:20px;
+    padding:10px 30px;
+    background: rgb(7, 187, 61);
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+    outline: none;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,58 @@
+body{
+    
+    /* //background: url(../../assets/images/carpooling-in-the-city-background-vector.jpg); */
+    background: url(../../assets/images/carpooling-in-the-city-background-vector.jpg);
+    background-repeat: no-repeat;
+    padding:10%;
+     padding-left: 10%; 
+   
+    background-size: 700px 700px;
+    margin-top: 0px;
+    
+    position: fixed;
+    
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+.left{
+    
+    margin-left: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: thin;
+    margin-top: 5%;
+   
+  
+  
+}
+#button{
+    margin-left: 200px;
+    width: 40%;
+    padding: 4px;
+}
+
+#name{
+    width: 170%;  
+    border-radius: 7px;
+    border-color: darkmagenta;
+    border-bottom: 1px solid rgb(12, 11, 11);
+    padding:10px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    font-size: medium;
+    outline: none;
+    color:rgb(27, 26, 26);
+    border:2px solid grey;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+     
+}
